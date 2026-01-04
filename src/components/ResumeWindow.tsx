@@ -33,11 +33,43 @@ export const ResumeWindow: React.FC<ResumeWindowProps> = ({ onClose }) => {
 
           {/* ================= LINKS ================= */}
           <div className="flex flex-wrap justify-center gap-2 text-xs">
-            <a className="retro-button px-3 py-1">🐙 GitHub</a>
-            <a className="retro-button px-3 py-1">💼 LinkedIn</a>
-            <a className="retro-button px-3 py-1">🧠 LeetCode</a>
-            <a className="retro-button px-3 py-1">🌐 Portfolio</a>
-          </div>
+  <a
+    href="https://github.com/Kaif9927"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="retro-button px-3 py-1"
+  >
+    🐙 GitHub
+  </a>
+
+  <a
+    href="https://www.linkedin.com/in/mohd-kaif-12762b256"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="retro-button px-3 py-1"
+  >
+    💼 LinkedIn
+  </a>
+
+  <a
+    href="https://leetcode.com/u/Kaif909/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="retro-button px-3 py-1"
+  >
+    🧠 LeetCode
+  </a>
+
+  <a
+    href="https://kaif909.netlify.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="retro-button px-3 py-1"
+  >
+    🌐 Portfolio
+  </a>
+</div>
+
 
           {/* ================= EDUCATION ================= */}
           <div>
