@@ -1,4 +1,4 @@
-# 🎮 Manab's Pixel Art Portfolio
+# 🎮 Kaif's Pixel Art Portfolio
 
 A retro pixel art themed portfolio website built with React, TypeScript, and Tailwind CSS.
 
@@ -18,9 +18,6 @@ A retro pixel art themed portfolio website built with React, TypeScript, and Tai
 - **Tailwind CSS** - Utility-first styling
 - **shadcn/ui** - Beautiful components
 
-## 🚀 Live Demo
-
-**Visit:** [https://manabs-portfolio.netlify.app](https://manabs-portfolio.netlify.app)
 
 ## 🎮 How to Use
 
